@@ -431,7 +431,6 @@ estaBalanceado arbol =
 
 -- 41. Balancear BST
 
-
 balancear : Tree comparable -> Tree comparable
 balancear arbol =
     Empty
